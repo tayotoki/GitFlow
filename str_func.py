@@ -12,3 +12,5 @@ def get_titled_string(string: str) -> str:
     :rtype: str
     """
     return string.title()
+
+# Some hotfix
